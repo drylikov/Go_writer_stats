@@ -1,4 +1,4 @@
-# writer.
+# Writer.
 
 Wrap an io.Writer for metrics.
 
